@@ -3,7 +3,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CMEONE&theme=algolia)
 
-<!--### Top Projects:
+### Top Projects:
 |Name|About|
 |-|-|
-|Name|Description|-->
+|[TogaTech/tEnvoy](https://github.com/TogaTech/tEnvoy)|PGP, NaCl, and PBKDF2 in the browser (encryption, decryption, signatures), used by TogaTech.org|
+|[TogaTech/tApp](https://github.com/TogaTech/tApp)|An extremely lightweight, modern web framework for building offline-ready apps and websites using components, templates, and/or view files|
+
