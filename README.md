@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Kabir R., Founder and CEO of [TogaTech](https://togatech.org/).
+### Hi there! 👋 I'm [Kabir R.](https://kabirramzan.com), Founder and CEO of [TogaTech](https://togatech.org/).
 <br>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CMEONE&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" alt="Github Stats" />
