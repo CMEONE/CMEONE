@@ -5,5 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMEONE&layout=compact&theme=algolia" alt="Top Languages" />
   <br>
   <br>
-  <!--<img src="https://activity-graph.herokuapp.com/graph?username=CMEONE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />-->
+  <img src="https://activity-graph.herokuapp.com/graph?username=CMEONE&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
